@@ -2,4 +2,4 @@
 
 -> This website is made using Socket.IO<br>
 <br>
--> This website is foor one to one chats or group chats.
+-> This website is for one to one chats or group chats.
