@@ -1,0 +1,16 @@
+{
+  "name": "talkie",
+  "version": "1.0.0",
+  "description": "chatapp",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon backend/server.js"
+  },
+  "author": "riya8866",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
